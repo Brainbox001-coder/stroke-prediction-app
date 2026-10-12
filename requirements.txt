@@ -1,0 +1,5 @@
+streamlit        # Web application framework
+scikit-learn     # Machine learning model training and prediction
+pandas           # Data manipulation and analysis
+numpy            # Numerical computations and array operations
+joblib           # Saving and loading trained machine learning models
